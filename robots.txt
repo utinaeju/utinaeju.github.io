@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utinaeju.github.io/EMX/sitemap_index.txt
+Sitemap: https://utinaeju.github.io/ZsN/sitemap_index.txt
+Sitemap: https://utinaeju.github.io/hoi/sitemap_index.txt
+Sitemap: https://utinaeju.github.io/sOa/sitemap_index.txt
